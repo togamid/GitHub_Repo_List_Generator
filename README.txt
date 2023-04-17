@@ -1,0 +1,1 @@
+Ein Projekt, das eine Liste mit Maven-Projekten erstellt, die mindestens seit Beginn 2019 bestehen.
